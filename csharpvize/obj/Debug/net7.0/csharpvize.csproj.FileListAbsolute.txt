@@ -1,0 +1,15 @@
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/bin/Debug/net7.0/csharpvize
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/bin/Debug/net7.0/csharpvize.deps.json
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/bin/Debug/net7.0/csharpvize.runtimeconfig.json
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/bin/Debug/net7.0/csharpvize.dll
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/bin/Debug/net7.0/csharpvize.pdb
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/obj/Debug/net7.0/csharpvize.csproj.AssemblyReference.cache
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/obj/Debug/net7.0/csharpvize.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/obj/Debug/net7.0/csharpvize.AssemblyInfoInputs.cache
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/obj/Debug/net7.0/csharpvize.AssemblyInfo.cs
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/obj/Debug/net7.0/csharpvize.csproj.CoreCompileInputs.cache
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/obj/Debug/net7.0/csharpvize.dll
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/obj/Debug/net7.0/refint/csharpvize.dll
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/obj/Debug/net7.0/csharpvize.pdb
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/obj/Debug/net7.0/csharpvize.genruntimeconfig.cache
+/Users/fermanaliarpacik/Desktop/csharpvize/csharpvize/obj/Debug/net7.0/ref/csharpvize.dll
